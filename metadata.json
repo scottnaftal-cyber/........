@@ -1,0 +1,6 @@
+{
+  "name": "Minera.ia",
+  "description": "Radar inteligente de prospecção B2B em Moçambique que minera empresas de diversos nichos com contacto WhatsApp ativo e sem website usando Google Maps e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
